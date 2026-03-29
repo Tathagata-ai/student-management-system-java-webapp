@@ -99,7 +99,7 @@ StudentDAO.java
 ## 📸 Screenshots (Optional)
 
 ### ➕ Add Student
-![Add Student](add-student.png)
+![Add Student](javaproject1.png)
 
 ### 📋 Student List
 ![Student List](javaproject2.png)
