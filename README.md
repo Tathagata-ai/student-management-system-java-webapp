@@ -102,7 +102,7 @@ StudentDAO.java
 ![Add Student](add-student.png)
 
 ### 📋 Student List
-![Student List](student-list.png)
+![Student List](javaproject2.png)
 
 ---
 
