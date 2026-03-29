@@ -98,7 +98,11 @@ StudentDAO.java
 
 ## 📸 Screenshots (Optional)
 
-*Add screenshots here later*
+### ➕ Add Student
+![Add Student](add-student.png)
+
+### 📋 Student List
+![Student List](student-list.png)
 
 ---
 
